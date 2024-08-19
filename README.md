@@ -5,4 +5,4 @@ Open the Dashboard-main folder
  2) Run this command in your terminal "npm i or npm install"
  3) Run npm start and it will run on your browser.
 
-Deployed vecel link :
+Deployed vecel link : https://dashboard-abhijeet70044s-projects.vercel.app/
